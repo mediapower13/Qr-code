@@ -1,0 +1,55 @@
+@media  and (max-width: 600px) {
+    .code {
+         width: 100%;
+    }
+    body {
+        background-color: rgb(52, 164, 164);
+    }
+}
+body {
+    background-color: rgb(175, 209, 237);
+    padding: 30px;
+}
+.code {
+    border-radius: 40px;
+    border: 3px solid blue;
+    text-align: center;
+    border-color: white;
+    background-color: aliceblue;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    
+
+}
+.img {
+    padding: 10px;
+    border-radius: 30px;
+    bottom: 0px;
+    width: 450px;
+
+}
+.first {
+ font-size: large;
+ text-decoration: solid;
+ font:3em sans-serif;
+ align-self: center;
+ 
+}
+.second {
+ font: 1.2em sans-serif;
+ margin: 0px;
+ padding-left: 20px;
+ padding-right: 20px;
+ align-self: center;
+}
+.final {
+ padding: 15px;
+}
+p {
+    text-align: center;
+    text-indent: 30px;
+    top: 0px;
+    display: inline-block;
+}
